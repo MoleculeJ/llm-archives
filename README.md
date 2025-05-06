@@ -23,3 +23,8 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 ### Evaluation for JOUR389W
 
 PUT YOUR EVALUATION HERE
+The results I got in the terminal are accurate. Groq can identify people, places, and organizations in the story I gave precisely, and in addition, it also gave a brief summary of people's attribution, places' locations, or what each organization does.   
+
+I think for Xinhua, firstly, this technique could be used to enhance the search engine system on the main website. Xinhua has loads of content, including articles, pictures, and videos, but the search tab is not effective in inputting specific words to obtain corresponding results. Hence, I think the approach in this assignment could be used to enhance the search system's efficiency, so users who may want to look for specific news stories that contain content about specific people, places, or organizations, can use this searching tab to filter and find stories that they are particularly look for. 
+
+Moreover, in terms of news reporting, Xinhua reporter can also use this technique to find story ideas from their own or other organizations' news archives. For example, reporters can look for how many times some news organizations have mentioned certain names, how frequently they have done that, or what other specific places or organizations have also been mentioned in the same stories containing those names. These kinds of insights could help reporters initially think of potential story ideas.     
